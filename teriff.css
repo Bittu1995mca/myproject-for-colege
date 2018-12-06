@@ -1,0 +1,82 @@
+.head
+
+{
+	background-color:black;
+	color:aliceblue;
+	font-size:40px;
+	margin-top:20px;
+	
+}
+
+
+.head1
+{
+	font-size:60px;
+}
+
+.head2
+{
+	margin-top:15px;
+}
+
+body
+{
+	background-color:darkgray;
+}
+
+.menu
+{
+	margin-top:-55px;
+}
+
+.menu1
+{
+	font-size:20px;
+	padding-left: 85px;
+}
+.main h2
+{
+	text-align:center;
+	font-size:55px;
+}
+.main
+{
+	background-color:aliceblue;
+	margin-top:-15px;
+}
+.main hr
+{
+	border-color: black;
+	width:80%;
+}
+.plans
+{
+	margin-left:25px;
+}
+.plans h4
+{
+	font-size:40px;
+	
+	
+}
+.table th
+{
+ text-align: center;
+background-color: darkgrey;
+font-size:20px;
+}
+.table td
+{
+	text-align: center;
+	font-size:15px;
+	
+}
+
+.footer
+{
+	background-color: black;
+	color:aliceblue;
+	text-align: center;
+	font-size:20px;
+	margin-top:2px;
+}

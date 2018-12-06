@@ -1,0 +1,86 @@
+body
+{
+	background-color: gray;
+}
+.head
+
+{
+	 background-color: black;
+	 color:antiquewhite;
+	 text-align:justify;
+	 margin-top:10px;
+	 padding-top:15px;
+}
+		
+		
+.head1
+{
+	font-size:55px;
+}
+		
+.head2
+{
+	font-size:34px;
+	word-spacing: 10px;
+}
+
+.main
+{
+	background-color: antiquewhite;
+	text-align: justify;
+	margin-top:-24px;
+}
+		
+.main h1
+{
+	font-size:45px;
+	text-align: center;
+}
+		
+.menu
+{
+	margin-top:-58px;
+	
+}
+
+hr
+{
+	border-color:black;
+	width:100%;
+}
+
+.para1
+{
+	font-size:20px;
+	text-align:justify;
+}
+
+.suite
+{
+	margin-top:15px;
+}
+
+.president
+{
+	font-size:40px;
+	text-align:justify;
+
+}
+
+.btn,.btn1
+{
+ background-color: darkcyan;
+	color:aliceblue;
+	margin-left: 20px;
+	width:40%;
+}
+.footer
+{
+	background-color: black;
+	color:aliceblue;
+	text-align: center;
+	font-size:30px;
+	margin-top:10px;
+	border-radius:12px;
+}
+

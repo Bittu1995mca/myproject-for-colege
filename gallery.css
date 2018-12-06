@@ -1,0 +1,57 @@
+
+.head
+{
+	background-color: black;
+	color:aliceblue;
+	margin-top: 10px;
+}
+
+.head1
+{
+  font-size:70px;
+}
+
+.img1
+{
+	height:100px;
+	width:100%;
+}
+
+body
+{
+	background-color: darkgray;
+}
+
+.main
+{
+	background-color: aliceblue;
+	
+	margin-top:-15px;
+}
+hr
+{
+	border-color: black;
+}
+
+.para
+{
+	text-align:justify;
+	font-size:20px;
+}
+
+button
+{
+	text-align: center;
+	font-size:40px;
+	color:red;
+	margin-top:30px;
+	margin-bottom:5px;
+}
+.footer
+{
+	background-color: black;
+	color:red;
+	text-align:center;
+	font-size: 25px;
+	margin-top:5px;
+}
